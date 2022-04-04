@@ -1,31 +1,112 @@
 {
-  "postari": [
+  "movies": [
     {
       "id": 1,
-      "title": "Post 1"
+      "title": "Matrix Renașterea",
+      "description":"Ca să afle dacă realitatea lui e o creație fizică sau a minții, Neo va trebui să-l urmărească din nou pe iepurele alb. Deja știe ce trebuie să facă, dar ce nu știe încă e că Matrixul e mai puternic și mai periculos decât înainte.",
+      "url":"",
+      "year":"2021",
+      "score":"6/10",
+      "age":"+13",
+      "photo":"https://happycinema.ro/files/movie-image/ALXHPY/43/40/434/5059_thumbnail_1-bx200x286.jpg?_s=3ab6528d5a578934f4957d32e7b0b0bd",
+      "type":["Actiune", "SF"],
+      "actors":["Keanu Reeves","Keanu Reeves","Yahya Abdul-Mateen II","Jessica Henwick","Jonathan Groff","Neil Patrick Harris","Priyanka Chopra Jonas"]
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "title": "Post 1",
+      "description":"",
+      "url":"",
+      "year":"",
+      "score":"",
+      "age":"",
+      "photo":"",
+      "type":[""],
+      "actors":[""]
     },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comentarii": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "title": "Post 1",
+      "description":"",
+      "url":"",
+      "year":"",
+      "score":"",
+      "age":"",
+      "photo":"",
+      "type":[""],
+      "actors":[""]
     },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+     {
+      "id": 1,
+      "title": "Post 1",
+      "description":"",
+      "url":"",
+      "year":"",
+      "score":"",
+      "age":"",
+      "photo":"",
+      "type":[""],
+      "actors":[""]
+    },
+     {
+      "id": 1,
+      "title": "Post 1",
+      "description":"",
+      "url":"",
+      "year":"",
+      "score":"",
+      "age":"",
+      "photo":"",
+      "type":[""],
+      "actors":[""]
+    },
+     {
+      "id": 1,
+      "title": "Post 1",
+      "description":"",
+      "url":"",
+      "year":"",
+      "score":"",
+      "age":"",
+      "photo":"",
+      "type":[""],
+      "actors":[""]
+    },
+     {
+      "id": 1,
+      "title": "Post 1",
+      "description":"",
+      "url":"",
+      "year":"",
+      "score":"",
+      "age":"",
+      "photo":"",
+      "type":[""],
+      "actors":[""]
+    },
+     {
+      "id": 1,
+      "title": "Post 1",
+      "description":"",
+      "url":"",
+      "year":"",
+      "score":"",
+      "age":"",
+      "photo":"",
+      "type":[""],
+      "actors":[""]
+    },
+     {
+      "id": 1,
+      "title": "Post 1",
+      "description":"",
+      "url":"",
+      "year":"",
+      "score":"",
+      "age":"",
+      "photo":"",
+      "type":[""],
+      "actors":[""]
+    },
+  ]
 }
